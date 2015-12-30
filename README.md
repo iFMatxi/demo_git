@@ -1,4 +1,5 @@
 # demo_git
 git demoa
 git demoa zena orain garatzen doa.
-eta hemendik egiten badut sartzen al da?
+eta hemendik egiten badut sartzen al da?<br/>
+erran nahi du hemendik… a ez, ez da ftp bat...
